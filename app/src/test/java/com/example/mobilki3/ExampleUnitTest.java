@@ -1,4 +1,4 @@
-package com.example.sm4_bettertodoapp;
+package com.example.mobilki3;
 
 import org.junit.Test;
 

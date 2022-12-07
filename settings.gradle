@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "SM4-BetterToDoApp"
+rootProject.name = "mobilki3"
 include ':app'

@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">SM4-BetterToDoApp</string>
+    <string name="app_name" translatable="false">SM3-BetterToDoApp</string>
+    <string name="name_hint">wpisz nazwe zadania3</string>
+    <string name="name_label" translatable="false">nazwa</string>
+    <string name="details_label" translatable="false">szczegoly</string>
+    <string name="done_label" translatable="false">zrobione</string>
+    <string name="name_hint_details" translatable="false">co dokladnie mam zrobic?</string>
+    <string name="task_add_new" translatable="false">nowe zad</string>
+    <string name="show_subtitle" translatable="false">pokaz zaległe</string>
+    <string name="hide_subtitle" translatable="false">ukryj zaległe</string>
+    <string name="subtitle_format" translatable="false">%1$d zadan</string>
 </resources>
